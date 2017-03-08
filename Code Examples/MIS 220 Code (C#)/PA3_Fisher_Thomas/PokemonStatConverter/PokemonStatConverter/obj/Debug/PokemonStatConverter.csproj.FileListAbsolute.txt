@@ -1,0 +1,9 @@
+c:\users\thomas\documents\visual studio 2015\Projects\PokemonStatConverter\PokemonStatConverter\bin\Debug\PokemonStatConverter.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\PokemonStatConverter\PokemonStatConverter\bin\Debug\PokemonStatConverter.exe
+c:\users\thomas\documents\visual studio 2015\Projects\PokemonStatConverter\PokemonStatConverter\bin\Debug\PokemonStatConverter.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\PokemonStatConverter\PokemonStatConverter\obj\Debug\PokemonStatConverter.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2015\Projects\PokemonStatConverter\PokemonStatConverter\obj\Debug\PokemonStatConverter.frmMain.resources
+c:\users\thomas\documents\visual studio 2015\Projects\PokemonStatConverter\PokemonStatConverter\obj\Debug\PokemonStatConverter.Properties.Resources.resources
+c:\users\thomas\documents\visual studio 2015\Projects\PokemonStatConverter\PokemonStatConverter\obj\Debug\PokemonStatConverter.csproj.GenerateResource.Cache
+c:\users\thomas\documents\visual studio 2015\Projects\PokemonStatConverter\PokemonStatConverter\obj\Debug\PokemonStatConverter.exe
+c:\users\thomas\documents\visual studio 2015\Projects\PokemonStatConverter\PokemonStatConverter\obj\Debug\PokemonStatConverter.pdb

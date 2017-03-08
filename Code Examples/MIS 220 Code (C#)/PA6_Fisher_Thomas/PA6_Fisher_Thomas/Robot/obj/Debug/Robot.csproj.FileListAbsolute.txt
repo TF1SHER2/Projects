@@ -1,0 +1,68 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 13-1 (Robot)\Robot\obj\Debug\Robot.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 13-1 (Robot)\Robot\obj\Debug\Robot.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 13-1 (Robot)\Robot\bin\Debug\Robot.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 13-1 (Robot)\Robot\bin\Debug\Robot.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 13-1 (Robot)\Robot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 13-1 (Robot)\Robot\obj\Debug\Robot.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 13-1 (Robot)\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 13-1 (Robot)\Robot\obj\Debug\Robot.csproj.GenerateResource.Cache
+C:\Murach\C# 2010\Instructors\Project solutions\Project 13-1 (Robot)\Robot\obj\Debug\Robot.exe
+C:\Murach\C# 2010\Instructors\Project solutions\Project 13-1 (Robot)\Robot\obj\Debug\Robot.pdb
+C:\Murach\C# 2010\Instructors\Project solutions\Project 13-1 (Robot)\Robot\bin\Debug\Robot.exe
+C:\Murach\C# 2010\Instructors\Project solutions\Project 13-1 (Robot)\Robot\bin\Debug\Robot.pdb
+C:\Murach\C# 2010\Instructors\Project solutions\Project 13-1 (Robot)\Robot\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Instructors\Project solutions\Project 13-1 (Robot)\Robot\obj\Debug\Robot.Form1.resources
+C:\Murach\C# 2010\Instructors\Project solutions\Project 13-1 (Robot)\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Murach\C# 2010\Instructors\Project solutions\Project 13-1 (Robot)\Robot\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Instructors\Project solutions\Project 13-1 (Robot)\Robot\obj\Debug\GenerateResource.write.1.tlog
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-2 (Robot)\Robot\obj\Debug\Robot.exe
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-2 (Robot)\Robot\obj\Debug\Robot.pdb
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-2 (Robot)\Robot\bin\Debug\Robot.exe.config
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-2 (Robot)\Robot\bin\Debug\Robot.exe
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-2 (Robot)\Robot\bin\Debug\Robot.pdb
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-2 (Robot)\Robot\obj\Debug\Robot.Form1.resources
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-2 (Robot)\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-2 (Robot)\Robot\obj\Debug\Robot.csproj.GenerateResource.Cache
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-3 (Robot)\Robot\bin\Debug\Robot.exe.config
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-3 (Robot)\Robot\obj\Debug\Robot.exe
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-3 (Robot)\Robot\obj\Debug\Robot.pdb
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-3 (Robot)\Robot\bin\Debug\Robot.exe
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-3 (Robot)\Robot\bin\Debug\Robot.pdb
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-3 (Robot)\Robot\obj\Debug\Robot.Form1.resources
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-3 (Robot)\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-3 (Robot)\Robot\obj\Debug\Robot.csproj.GenerateResource.Cache
+C:\C# 2015\Projects\Project 3-3 (Robot)\Robot\bin\Debug\Robot.exe.config
+C:\C# 2015\Projects\Project 3-3 (Robot)\Robot\obj\Debug\Robot.exe
+C:\C# 2015\Projects\Project 3-3 (Robot)\Robot\obj\Debug\Robot.pdb
+C:\C# 2015\Projects\Project 3-3 (Robot)\Robot\bin\Debug\Robot.exe
+C:\C# 2015\Projects\Project 3-3 (Robot)\Robot\bin\Debug\Robot.pdb
+C:\C# 2015\Projects\Project 3-3 (Robot)\Robot\obj\Debug\Robot.Form1.resources
+C:\C# 2015\Projects\Project 3-3 (Robot)\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\C# 2015\Projects\Project 3-3 (Robot)\Robot\obj\Debug\Robot.csproj.GenerateResource.Cache
+C:\Murach\C# 2015\Instructors\Projects\Project solutions\Project 3-3 (Robot)\Robot\bin\Debug\Robot.exe.config
+C:\Murach\C# 2015\Instructors\Projects\Project solutions\Project 3-3 (Robot)\Robot\obj\Debug\Robot.exe
+C:\Murach\C# 2015\Instructors\Projects\Project solutions\Project 3-3 (Robot)\Robot\obj\Debug\Robot.pdb
+C:\Murach\C# 2015\Instructors\Projects\Project solutions\Project 3-3 (Robot)\Robot\bin\Debug\Robot.exe
+C:\Murach\C# 2015\Instructors\Projects\Project solutions\Project 3-3 (Robot)\Robot\bin\Debug\Robot.pdb
+C:\Murach\C# 2015\Instructors\Projects\Project solutions\Project 3-3 (Robot)\Robot\obj\Debug\Robot.csprojResolveAssemblyReference.cache
+C:\Murach\C# 2015\Instructors\Projects\Project solutions\Project 3-3 (Robot)\Robot\obj\Debug\Robot.Form1.resources
+C:\Murach\C# 2015\Instructors\Projects\Project solutions\Project 3-3 (Robot)\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Murach\C# 2015\Instructors\Projects\Project solutions\Project 3-3 (Robot)\Robot\obj\Debug\Robot.csproj.GenerateResource.Cache
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\RobotSample\Robot\bin\Debug\Robot.exe.config
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\RobotSample\Robot\obj\Debug\Robot.exe
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\RobotSample\Robot\obj\Debug\Robot.pdb
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\RobotSample\Robot\bin\Debug\Robot.exe
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\RobotSample\Robot\bin\Debug\Robot.pdb
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\RobotSample\Robot\obj\Debug\Robot.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\RobotSample\Robot\obj\Debug\Robot.frmMain.resources
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\RobotSample\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\RobotSample\Robot\obj\Debug\Robot.csproj.GenerateResource.Cache
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\PA6_Thomas_Fisher\Robot\bin\Debug\Robot.exe.config
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\PA6_Thomas_Fisher\Robot\obj\Debug\Robot.exe
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\PA6_Thomas_Fisher\Robot\obj\Debug\Robot.pdb
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\PA6_Thomas_Fisher\Robot\bin\Debug\Robot.exe
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\PA6_Thomas_Fisher\Robot\bin\Debug\Robot.pdb
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\PA6_Thomas_Fisher\Robot\obj\Debug\Robot.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\PA6_Thomas_Fisher\Robot\obj\Debug\Robot.frmMain.resources
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\PA6_Thomas_Fisher\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\PA6_Thomas_Fisher\Robot\obj\Debug\Robot.csproj.GenerateResource.Cache
